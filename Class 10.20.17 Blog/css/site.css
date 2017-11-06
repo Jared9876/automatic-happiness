@@ -1,0 +1,27 @@
+body {
+    background-color: grey
+}
+
+header, footer{
+
+    background-color: gold
+
+}
+
+#primary-area {
+
+    background-color: darkgreen
+}
+
+main {
+background-color: #bb00d4
+}
+
+aside {
+    background-color: lightpink
+
+}
+
+/* img {
+    width: 50%;
+} */

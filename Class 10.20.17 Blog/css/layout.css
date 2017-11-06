@@ -1,0 +1,51 @@
+* {
+    /* margin: 1%; */
+/* padding: 1%; */
+}
+#primary-area {
+
+}
+#logo {
+    width: 200px;
+
+}
+img {
+    max-width: 100%;
+}
+main {
+    /* width: 1000px; */
+    float: left;
+    width: 63%;
+}
+main article{ 
+    
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 2rem; 
+    padding: 0 2rem;
+
+} 
+    aside {
+        
+      float: right;
+      width: 30%;
+
+        /* position: absolute; */
+
+ }
+
+} 
+aside {
+    
+  float: right;
+  width: 30%;
+
+    /* position: absolute; */
+
+}
+footer {
+    height: 100px;
+    clear: both;
+    
+    
+}
